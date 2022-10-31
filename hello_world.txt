@@ -1,0 +1,3 @@
+Witam serdecznie
+pierwszy hello_world here
+moze nic sie nie wyjebie
